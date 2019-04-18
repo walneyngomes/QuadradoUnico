@@ -1,4 +1,4 @@
-package triangulo;
+package Quadrado;
 
 public class Quadrado {
 
